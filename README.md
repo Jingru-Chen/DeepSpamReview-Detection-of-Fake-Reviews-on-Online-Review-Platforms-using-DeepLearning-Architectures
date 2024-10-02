@@ -53,3 +53,4 @@ The results obtained were as follows:
 | LogisticRegression + TF-IDF | 99.11 | 87.21 |
 
 Future scope includes improvement in the attention layer to increase testing accuracy. BERT and XLNet can be implemented to improve the performance further.
+
